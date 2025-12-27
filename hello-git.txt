@@ -1,1 +1,2 @@
 random file contents    
+Added a 2nd line directly in GitHub
